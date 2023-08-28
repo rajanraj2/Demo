@@ -1,4 +1,4 @@
 # Demo
 This is just a demo repository.
 <br>
-Author - Rajan Raj
+Author - Rajan Raj (RR)
